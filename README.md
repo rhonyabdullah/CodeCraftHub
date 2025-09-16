@@ -1,2 +1,2 @@
 # CodeCraftHub
-CodeCraftHub Skills Network Labs
+CodeCraftHub, a personalized learning platform crafted for developers! 
